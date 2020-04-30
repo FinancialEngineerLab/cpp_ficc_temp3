@@ -5,6 +5,7 @@ These are the course works for the Financial Computing 2019 Fall.
 Topics Related:
 
 * [Recursion](https://github.com/jieqian2/Financial-Computing-in-Cpp/blob/master/Assignment/sudoku_using_recursion.h), 
+* [Bond Immulization and Optimization](https://github.com/jieqian2/Financial-Computing-in-Cpp/blob/master/Assignment/bonds_immulization_and_optimization.cpp),
 * Option Pricing with 
   * [Binomial/Trinomial Model](https://github.com/jieqian2/Financial-Computing-in-Cpp/blob/master/Assignment/AmericanOptionPricing_Trinomial_DP.cpp)
   * [Memorization](https://github.com/jieqian2/Financial-Computing-in-Cpp/blob/master/Assignment/european%20options%20pricing%20by%20memorization.cpp), 
