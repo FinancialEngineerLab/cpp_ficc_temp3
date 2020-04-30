@@ -1,5 +1,5 @@
 # Financial-Computing-in-Cpp
-These are the course works for the financial computing course.
+These are the course works for the Financial Computing 2019 Fall.
 
 Topics Related:
 
