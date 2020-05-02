@@ -14,6 +14,6 @@ Topics Related:
   * [LPsolves](https://github.com/jieqian2/Financial-Computing-in-Cpp/blob/master/Assignment/euro%20options%20pricing%20LPs.cpp), 
   * [Brownian Bridge](https://github.com/jieqian2/Financial-Computing-in-Cpp/blob/master/Assignment/barrier%20option%20pricing%20with%20brownian-bridge.cpp),
   *  [Hull White Interpolation](https://github.com/jieqian2/Financial-Computing-in-Cpp/blob/master/Code%20Used%20In%20Class/Asian%20Options%20via%20Hull-White%20Interpolation.cpp),
-  * [Longstaff and Schwartz Algorithm](https://github.com/jieqian2/Financial-Computing-in-Cpp/blob/master/Code%20Used%20In%20Class/longstaff_shwartz.cpp).
+  * [Longstaff and Schwartz Algorithm(solve Monte Carlo in Monte Carlo problem)](https://github.com/jieqian2/Financial-Computing-in-Cpp/blob/master/Code%20Used%20In%20Class/longstaff_shwartz.cpp).
 
 * [Median of Medians Algorithm](https://github.com/jieqian2/Financial-Computing-in-Cpp/blob/master/Code%20Used%20In%20Class/Median-of-Medians%20Algorithm.cpp)
